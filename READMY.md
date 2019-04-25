@@ -1,0 +1,2 @@
+# foxsay
+JavaScript библиотека!
